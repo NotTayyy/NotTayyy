@@ -11,7 +11,7 @@
 <hr>
 <p align="center">
   My Tech Stack </br></br>
-  <a href="youtube.com" target="_blank"><img src="https://img.shields.io/badge/-Node.Js-success?style=for-the-badge&logo=Node.js&logoColor=white" alt="NodeJs" /></ a>
+  <a href="https://youtube.com" target="_blank"><img src="https://img.shields.io/badge/-Node.Js-success?style=for-the-badge&logo=Node.js&logoColor=white" alt="NodeJs" /></ a>
   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-TypeScript-9cf?style=for-the-badge&logo=TypeScript&logoColor=white" alt="Typescript"/>
   <img src="https://img.shields.io/badge/-react-red?style=for-the-badge&logo=React&logoColor=white" alt="React"/>
