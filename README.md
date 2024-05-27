@@ -7,6 +7,7 @@
   </br></br>
   <a href="https://github.com/NotTayyy"><img src="https://img.shields.io/badge/GitHub-lightgrey?style=for-the-badge&logo=GitHub" alt="Github"/></a>
 </p>
+<a href="https://www.last.fm/user/NotTayyy"><img src="https://lastfm-recently-played.vercel.app/api?user=YOURUSERNAME" height="auto" width="350px"/></a>
 
 <hr>
 <p align="center">
