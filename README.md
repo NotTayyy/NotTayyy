@@ -7,7 +7,9 @@
   </br></br>
   <a href="https://github.com/NotTayyy"><img src="https://img.shields.io/badge/GitHub-lightgrey?style=for-the-badge&logo=GitHub" alt="Github"/></a>
 </p>
-<a align='center' href="https://www.last.fm/user/NotTayyy"><img src="https://lastfm-recently-played.vercel.app/api?user=NotTayyy" height="auto" width="350px"/></a>
+<p align='center' dir='auto'>
+  <a href="https://www.last.fm/user/NotTayyy"><img src="https://lastfm-recently-played.vercel.app/api?user=NotTayyy" height="auto" width="350px"/></a>
+</>
 
 <hr>
 <p align="center">
